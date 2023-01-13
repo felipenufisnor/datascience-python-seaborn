@@ -1,4 +1,3 @@
-# ds-python-seaborn
 Data Visualization: Exploring with Seaborn
 
 I learned the main techniques of analysis of Time Series;
